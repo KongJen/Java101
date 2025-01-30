@@ -1,0 +1,15 @@
+{
+  "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.endOfLine": "lf",
+  "prettier.singleAttributePerLine": false,
+  "prettier.insertPragma": false,
+  "prettier.experimentalTernaries": false,
+  "prettier.requireConfig": false,
+  "prettier.bracketSameLine": false,
+  "prettier.htmlWhitespaceSensitivity": "css",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "java.format.settings.url": "eclipse-formatter.xml"
+}
